@@ -14,7 +14,7 @@ This project creates a Marcopad keyboard using Arduino uno
 - Some suitable register
 
 ## Circuit 
-![Wiring Diagram](images/circuit.png)
+![Wiring Diagram](IC%2074HC165/images/circuit.png)
 
 ## Setup
 1. Clone this repository
